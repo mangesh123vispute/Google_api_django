@@ -119,25 +119,26 @@ function DirectionsToggle(){
               
               var formdata = form.serialize() 
               $.ajax({
-                  url: form.attr("action"),
-                  method: form.attr("method"),
-                  data: formdata,
-                  success: function(json){
-                      CustomFormSubmitResponse($('#signinform button[type=submit]'));
-                      if (json["result"] == "Success"){
-                        var redirect = "/"
-                      }
-                      else{
-                        var redirect = false
-                      }
-                      ShowAlert(json["result"], json["message"], json["result"].toLowerCase(), redirect);
-                  },
-                  error: function(xhr){
-                      CustomFormSubmitResponse($('#signinform button[type=submit]'));
-                      ShowAlert("Error", "There was an error, please try again", "error", false);
-                      console.log(xhr.status + ": " + xhr.responseText);
+                url: form.attr("action"),
+                method: form.attr("method"),
+                data: formdata,
+                success: function(json) {
+                  CustomFormSubmitResponse($('#signupform button[type=submit]'));
+              
+                  
+              if (json["result"] == "Success") {
+                    var redirect = "/";
+                  } else {
+                    var redirect = false;
                   }
-              }) 
+                  ShowAlert(json["result"], json["message"], json["result"].toLowerCase(), redirect);
+                },
+                error: function(xhr) {
+                  CustomFormSubmitResponse($('#signupform button[type=submit]'));
+                  ShowAlert("Error", "There was an error, please try again", "error", false);
+                  console.log(xhr.status + ": " + xhr.responseText);
+                }
+              });
           });
       };
   

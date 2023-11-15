@@ -1,4 +1,0 @@
-rc_key=6LdjL9YoAAAAAPEOIcMXmU2D1Z8lTSuZsj_7DzpT
-rc_secrate_key=6LdjL9YoAAAAAJcBdU20dBSEHB2YUlJnxZTp37Lc
-
-Google=AIzaSyD9KY0FbIUhu6nwKeqSJLgmedkXwDHbwyA

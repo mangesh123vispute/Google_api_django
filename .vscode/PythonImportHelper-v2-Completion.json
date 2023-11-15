@@ -1,0 +1,1964 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "urlencode",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "format_timespan",
+        "importPath": "humanfriendly",
+        "description": "humanfriendly",
+        "isExtraImport": true,
+        "detail": "humanfriendly",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "Directions",
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "isExtraImport": true,
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "ModelForm",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "FormView",
+        "importPath": "django.views.generic.edit",
+        "description": "django.views.generic.edit",
+        "isExtraImport": true,
+        "detail": "django.views.generic.edit",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic.base",
+        "description": "django.views.generic.base",
+        "isExtraImport": true,
+        "detail": "django.views.generic.base",
+        "documentation": {}
+    },
+    {
+        "label": "method_decorator",
+        "importPath": "django.utils.decorators",
+        "description": "django.utils.decorators",
+        "isExtraImport": true,
+        "detail": "django.utils.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "django_google_api.asgi",
+        "description": "django_google_api.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "django_google_api.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "AjaxFormMixin",
+        "kind": 6,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "class AjaxFormMixin(object):\n\t'''\n\tMixin to ajaxify django form - can be over written in view by calling form_valid method\n\t'''\n\tdef form_invalid(self, form):\n\t\tresponse = super(AjaxFormMixin, self).form_invalid(form)\n\t\tif is_ajax(self.request):\n\t\t\tmessage = FormErrors(form)\n\t\t\treturn JsonResponse({'result':'Error', 'message': message})\n\t\treturn response",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "is_ajax",
+        "kind": 2,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "def is_ajax(request):\n    return request.META.get('HTTP_X_REQUESTED_WITH') == 'XMLHttpRequest'\ndef FormErrors(*args):\n\t'''\n\tHandles form error that are passed back to AJAX calls\n\t'''\n\tmessage = \"\"\n\tfor f in args:\n\t\tif f.errors:\n\t\t\tmessage = f.errors.as_text()",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "FormErrors",
+        "kind": 2,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "def FormErrors(*args):\n\t'''\n\tHandles form error that are passed back to AJAX calls\n\t'''\n\tmessage = \"\"\n\tfor f in args:\n\t\tif f.errors:\n\t\t\tmessage = f.errors.as_text()\n\treturn message\ndef reCAPTCHAValidation(token):",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "reCAPTCHAValidation",
+        "kind": 2,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "def reCAPTCHAValidation(token):\n\t''' reCAPTCHA validation '''\n\tresult = requests.post(\n\t\t'https://www.google.com/recaptcha/api/siteverify',\n\t\t data={\n\t\t \t'secret': settings.RECAPTCHA_PRIVATE_KEY,\n\t\t\t'response': token\n\t\t })\n\treturn result.json()\ndef RedirectParams(**kwargs):",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "RedirectParams",
+        "kind": 2,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "def RedirectParams(**kwargs):\n\t'''\n\tUsed to append url parameters when redirecting users\n\t'''\n\turl = kwargs.get(\"url\")\n\tparams = kwargs.get(\"params\")\n\tresponse = redirect(url)\n\tif params:\n\t\tquery_string = urlencode(params)\n\t\tresponse['Location'] += '?' + query_string",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "Directions",
+        "kind": 2,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "def Directions(*args, **kwargs):\n\tlat_a = kwargs.get(\"lat_a\")\n\tlong_a = kwargs.get(\"long_a\")\n\tlat_b = kwargs.get(\"lat_b\")\n\tlong_b = kwargs.get(\"long_b\")\n\tlat_c = kwargs.get(\"lat_c\")\n\tlong_c = kwargs.get(\"long_c\")\n\tlat_d = kwargs.get(\"lat_d\")\n\tlong_d = kwargs.get(\"long_d\")\n\torigin = f'{lat_a},{long_a}'",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tmessage",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tmessage = \"\"\n\tfor f in args:\n\t\tif f.errors:\n\t\t\tmessage = f.errors.as_text()\n\treturn message\ndef reCAPTCHAValidation(token):\n\t''' reCAPTCHA validation '''\n\tresult = requests.post(\n\t\t'https://www.google.com/recaptcha/api/siteverify',\n\t\t data={",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tmessage",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\t\t\tmessage = f.errors.as_text()\n\treturn message\ndef reCAPTCHAValidation(token):\n\t''' reCAPTCHA validation '''\n\tresult = requests.post(\n\t\t'https://www.google.com/recaptcha/api/siteverify',\n\t\t data={\n\t\t \t'secret': settings.RECAPTCHA_PRIVATE_KEY,\n\t\t\t'response': token\n\t\t })",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tresult",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tresult = requests.post(\n\t\t'https://www.google.com/recaptcha/api/siteverify',\n\t\t data={\n\t\t \t'secret': settings.RECAPTCHA_PRIVATE_KEY,\n\t\t\t'response': token\n\t\t })\n\treturn result.json()\ndef RedirectParams(**kwargs):\n\t'''\n\tUsed to append url parameters when redirecting users",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\turl",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\turl = kwargs.get(\"url\")\n\tparams = kwargs.get(\"params\")\n\tresponse = redirect(url)\n\tif params:\n\t\tquery_string = urlencode(params)\n\t\tresponse['Location'] += '?' + query_string\n\treturn response\nclass AjaxFormMixin(object):\n\t'''\n\tMixin to ajaxify django form - can be over written in view by calling form_valid method",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tparams",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tparams = kwargs.get(\"params\")\n\tresponse = redirect(url)\n\tif params:\n\t\tquery_string = urlencode(params)\n\t\tresponse['Location'] += '?' + query_string\n\treturn response\nclass AjaxFormMixin(object):\n\t'''\n\tMixin to ajaxify django form - can be over written in view by calling form_valid method\n\t'''",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tresponse",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tresponse = redirect(url)\n\tif params:\n\t\tquery_string = urlencode(params)\n\t\tresponse['Location'] += '?' + query_string\n\treturn response\nclass AjaxFormMixin(object):\n\t'''\n\tMixin to ajaxify django form - can be over written in view by calling form_valid method\n\t'''\n\tdef form_invalid(self, form):",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tquery_string",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\t\tquery_string = urlencode(params)\n\t\tresponse['Location'] += '?' + query_string\n\treturn response\nclass AjaxFormMixin(object):\n\t'''\n\tMixin to ajaxify django form - can be over written in view by calling form_valid method\n\t'''\n\tdef form_invalid(self, form):\n\t\tresponse = super(AjaxFormMixin, self).form_invalid(form)\n\t\tif is_ajax(self.request):",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tresponse",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\t\tresponse = super(AjaxFormMixin, self).form_invalid(form)\n\t\tif is_ajax(self.request):\n\t\t\tmessage = FormErrors(form)\n\t\t\treturn JsonResponse({'result':'Error', 'message': message})\n\t\treturn response\n\tdef form_valid(self, form):\n\t\tresponse = super(AjaxFormMixin, self).form_valid(form)\n\t\tif is_ajax(self.request):\n\t\t\tform.save()\n\t\t\treturn JsonResponse({'result':'Success', 'message': \"\"})",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tmessage",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\t\t\tmessage = FormErrors(form)\n\t\t\treturn JsonResponse({'result':'Error', 'message': message})\n\t\treturn response\n\tdef form_valid(self, form):\n\t\tresponse = super(AjaxFormMixin, self).form_valid(form)\n\t\tif is_ajax(self.request):\n\t\t\tform.save()\n\t\t\treturn JsonResponse({'result':'Success', 'message': \"\"})\n\t\treturn response\ndef Directions(*args, **kwargs):",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tresponse",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\t\tresponse = super(AjaxFormMixin, self).form_valid(form)\n\t\tif is_ajax(self.request):\n\t\t\tform.save()\n\t\t\treturn JsonResponse({'result':'Success', 'message': \"\"})\n\t\treturn response\ndef Directions(*args, **kwargs):\n\tlat_a = kwargs.get(\"lat_a\")\n\tlong_a = kwargs.get(\"long_a\")\n\tlat_b = kwargs.get(\"lat_b\")\n\tlong_b = kwargs.get(\"long_b\")",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tlat_a",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tlat_a = kwargs.get(\"lat_a\")\n\tlong_a = kwargs.get(\"long_a\")\n\tlat_b = kwargs.get(\"lat_b\")\n\tlong_b = kwargs.get(\"long_b\")\n\tlat_c = kwargs.get(\"lat_c\")\n\tlong_c = kwargs.get(\"long_c\")\n\tlat_d = kwargs.get(\"lat_d\")\n\tlong_d = kwargs.get(\"long_d\")\n\torigin = f'{lat_a},{long_a}'\n\tdestination = f'{lat_b},{long_b}'",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tlong_a",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tlong_a = kwargs.get(\"long_a\")\n\tlat_b = kwargs.get(\"lat_b\")\n\tlong_b = kwargs.get(\"long_b\")\n\tlat_c = kwargs.get(\"lat_c\")\n\tlong_c = kwargs.get(\"long_c\")\n\tlat_d = kwargs.get(\"lat_d\")\n\tlong_d = kwargs.get(\"long_d\")\n\torigin = f'{lat_a},{long_a}'\n\tdestination = f'{lat_b},{long_b}'\n\twaypoints = f'{lat_c},{long_c}|{lat_d},{long_d}'",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tlat_b",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tlat_b = kwargs.get(\"lat_b\")\n\tlong_b = kwargs.get(\"long_b\")\n\tlat_c = kwargs.get(\"lat_c\")\n\tlong_c = kwargs.get(\"long_c\")\n\tlat_d = kwargs.get(\"lat_d\")\n\tlong_d = kwargs.get(\"long_d\")\n\torigin = f'{lat_a},{long_a}'\n\tdestination = f'{lat_b},{long_b}'\n\twaypoints = f'{lat_c},{long_c}|{lat_d},{long_d}'\n\tresult = requests.get(",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tlong_b",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tlong_b = kwargs.get(\"long_b\")\n\tlat_c = kwargs.get(\"lat_c\")\n\tlong_c = kwargs.get(\"long_c\")\n\tlat_d = kwargs.get(\"lat_d\")\n\tlong_d = kwargs.get(\"long_d\")\n\torigin = f'{lat_a},{long_a}'\n\tdestination = f'{lat_b},{long_b}'\n\twaypoints = f'{lat_c},{long_c}|{lat_d},{long_d}'\n\tresult = requests.get(\n\t\t'https://maps.googleapis.com/maps/api/directions/json?',",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tlat_c",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tlat_c = kwargs.get(\"lat_c\")\n\tlong_c = kwargs.get(\"long_c\")\n\tlat_d = kwargs.get(\"lat_d\")\n\tlong_d = kwargs.get(\"long_d\")\n\torigin = f'{lat_a},{long_a}'\n\tdestination = f'{lat_b},{long_b}'\n\twaypoints = f'{lat_c},{long_c}|{lat_d},{long_d}'\n\tresult = requests.get(\n\t\t'https://maps.googleapis.com/maps/api/directions/json?',\n\t\t params={",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tlong_c",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tlong_c = kwargs.get(\"long_c\")\n\tlat_d = kwargs.get(\"lat_d\")\n\tlong_d = kwargs.get(\"long_d\")\n\torigin = f'{lat_a},{long_a}'\n\tdestination = f'{lat_b},{long_b}'\n\twaypoints = f'{lat_c},{long_c}|{lat_d},{long_d}'\n\tresult = requests.get(\n\t\t'https://maps.googleapis.com/maps/api/directions/json?',\n\t\t params={\n\t\t 'origin': origin,",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tlat_d",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tlat_d = kwargs.get(\"lat_d\")\n\tlong_d = kwargs.get(\"long_d\")\n\torigin = f'{lat_a},{long_a}'\n\tdestination = f'{lat_b},{long_b}'\n\twaypoints = f'{lat_c},{long_c}|{lat_d},{long_d}'\n\tresult = requests.get(\n\t\t'https://maps.googleapis.com/maps/api/directions/json?',\n\t\t params={\n\t\t 'origin': origin,\n\t\t 'destination': destination,",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tlong_d",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tlong_d = kwargs.get(\"long_d\")\n\torigin = f'{lat_a},{long_a}'\n\tdestination = f'{lat_b},{long_b}'\n\twaypoints = f'{lat_c},{long_c}|{lat_d},{long_d}'\n\tresult = requests.get(\n\t\t'https://maps.googleapis.com/maps/api/directions/json?',\n\t\t params={\n\t\t 'origin': origin,\n\t\t 'destination': destination,\n\t\t 'waypoints': waypoints,",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\torigin",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\torigin = f'{lat_a},{long_a}'\n\tdestination = f'{lat_b},{long_b}'\n\twaypoints = f'{lat_c},{long_c}|{lat_d},{long_d}'\n\tresult = requests.get(\n\t\t'https://maps.googleapis.com/maps/api/directions/json?',\n\t\t params={\n\t\t 'origin': origin,\n\t\t 'destination': destination,\n\t\t 'waypoints': waypoints,\n\t\t \"key\": settings.GOOGLE_API_KEY",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tdestination",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tdestination = f'{lat_b},{long_b}'\n\twaypoints = f'{lat_c},{long_c}|{lat_d},{long_d}'\n\tresult = requests.get(\n\t\t'https://maps.googleapis.com/maps/api/directions/json?',\n\t\t params={\n\t\t 'origin': origin,\n\t\t 'destination': destination,\n\t\t 'waypoints': waypoints,\n\t\t \"key\": settings.GOOGLE_API_KEY\n\t\t })",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\twaypoints",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\twaypoints = f'{lat_c},{long_c}|{lat_d},{long_d}'\n\tresult = requests.get(\n\t\t'https://maps.googleapis.com/maps/api/directions/json?',\n\t\t params={\n\t\t 'origin': origin,\n\t\t 'destination': destination,\n\t\t 'waypoints': waypoints,\n\t\t \"key\": settings.GOOGLE_API_KEY\n\t\t })\n\tdirections = result.json()",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tresult",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tresult = requests.get(\n\t\t'https://maps.googleapis.com/maps/api/directions/json?',\n\t\t params={\n\t\t 'origin': origin,\n\t\t 'destination': destination,\n\t\t 'waypoints': waypoints,\n\t\t \"key\": settings.GOOGLE_API_KEY\n\t\t })\n\tdirections = result.json()\n\tif directions[\"status\"] == \"OK\":",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\tdirections",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\tdirections = result.json()\n\tif directions[\"status\"] == \"OK\":\n\t\troutes = directions[\"routes\"][0][\"legs\"]\n\t\tdistance = 0\n\t\tduration = 0\n\t\troute_list = []\n\t\tfor route in range(len(routes)):\n\t\t\tdistance += int(routes[route][\"distance\"][\"value\"])\n\t\t\tduration += int(routes[route][\"duration\"][\"value\"])\n\t\t\troute_step = {",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\t\troutes",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\t\troutes = directions[\"routes\"][0][\"legs\"]\n\t\tdistance = 0\n\t\tduration = 0\n\t\troute_list = []\n\t\tfor route in range(len(routes)):\n\t\t\tdistance += int(routes[route][\"distance\"][\"value\"])\n\t\t\tduration += int(routes[route][\"duration\"][\"value\"])\n\t\t\troute_step = {\n\t\t\t\t'origin': routes[route][\"start_address\"],\n\t\t\t\t'destination': routes[route][\"end_address\"],",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdistance",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\t\tdistance = 0\n\t\tduration = 0\n\t\troute_list = []\n\t\tfor route in range(len(routes)):\n\t\t\tdistance += int(routes[route][\"distance\"][\"value\"])\n\t\t\tduration += int(routes[route][\"duration\"][\"value\"])\n\t\t\troute_step = {\n\t\t\t\t'origin': routes[route][\"start_address\"],\n\t\t\t\t'destination': routes[route][\"end_address\"],\n\t\t\t\t'distance': routes[route][\"distance\"][\"text\"],",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tduration",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\t\tduration = 0\n\t\troute_list = []\n\t\tfor route in range(len(routes)):\n\t\t\tdistance += int(routes[route][\"distance\"][\"value\"])\n\t\t\tduration += int(routes[route][\"duration\"][\"value\"])\n\t\t\troute_step = {\n\t\t\t\t'origin': routes[route][\"start_address\"],\n\t\t\t\t'destination': routes[route][\"end_address\"],\n\t\t\t\t'distance': routes[route][\"distance\"][\"text\"],\n\t\t\t\t'duration': routes[route][\"duration\"][\"text\"],",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\t\troute_list",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\t\troute_list = []\n\t\tfor route in range(len(routes)):\n\t\t\tdistance += int(routes[route][\"distance\"][\"value\"])\n\t\t\tduration += int(routes[route][\"duration\"][\"value\"])\n\t\t\troute_step = {\n\t\t\t\t'origin': routes[route][\"start_address\"],\n\t\t\t\t'destination': routes[route][\"end_address\"],\n\t\t\t\t'distance': routes[route][\"distance\"][\"text\"],\n\t\t\t\t'duration': routes[route][\"duration\"][\"text\"],\n\t\t\t\t'steps': [",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\troute_step",
+        "kind": 5,
+        "importPath": "django_google_api.mixins",
+        "description": "django_google_api.mixins",
+        "peekOfCode": "\t\t\troute_step = {\n\t\t\t\t'origin': routes[route][\"start_address\"],\n\t\t\t\t'destination': routes[route][\"end_address\"],\n\t\t\t\t'distance': routes[route][\"distance\"][\"text\"],\n\t\t\t\t'duration': routes[route][\"duration\"][\"text\"],\n\t\t\t\t'steps': [\n\t\t\t\t\t[\n\t\t\t\t\t\ts[\"distance\"][\"text\"],\n\t\t\t\t\t\ts[\"duration\"][\"text\"],\n\t\t\t\t\t\ts[\"html_instructions\"],",
+        "detail": "django_google_api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-4+8=)^b$b33nxdhv^tyzo02e8m_f%oyyep+uf=xsubx@)&)ddp'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['.vercel.app','.now.sh','127.0.0.1','localhost']\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-4+8=)^b$b33nxdhv^tyzo02e8m_f%oyyep+uf=xsubx@)&)ddp'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['.vercel.app','.now.sh','127.0.0.1','localhost']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['.vercel.app','.now.sh','127.0.0.1','localhost']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['.vercel.app','.now.sh','127.0.0.1','localhost']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'main',",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'main',\n    'users',\n]",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'django_google_api.urls'",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "ROOT_URLCONF = 'django_google_api.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\"templates\"],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\"templates\"],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'django_google_api.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'railway',\n        'USER': 'postgres',\n        'PASSWORD': '5DB523dDCDB-5EEab1BB53ebd25eaf64',\n        'HOST': 'viaduct.proxy.rlwy.net',",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'railway',\n        'USER': 'postgres',\n        'PASSWORD': '5DB523dDCDB-5EEab1BB53ebd25eaf64',\n        'HOST': 'viaduct.proxy.rlwy.net',\n        'PORT': '19031',\n    }\n}",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[\nos.path.join(BASE_DIR, 'static')    \n]",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[\nos.path.join(BASE_DIR, 'static')    \n]\nSTATIC_ROOT=os.path.join(BASE_DIR, 'staticfiles_build','static')",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[\nos.path.join(BASE_DIR, 'static')    \n]\nSTATIC_ROOT=os.path.join(BASE_DIR, 'staticfiles_build','static')\nGOOGLE_API_KEY=\"AIzaSyD9KY0FbIUhu6nwKeqSJLgmedkXwDHbwyA\"",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[\nos.path.join(BASE_DIR, 'static')    \n]\nSTATIC_ROOT=os.path.join(BASE_DIR, 'staticfiles_build','static')\nGOOGLE_API_KEY=\"AIzaSyD9KY0FbIUhu6nwKeqSJLgmedkXwDHbwyA\"\nRECAPTCHA_PUBLIC_KEY=\"6LdichApAAAAAFhii3HZi7HTPjGAFULhwv_UyXN_\"",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS=[\nos.path.join(BASE_DIR, 'static')    \n]\nSTATIC_ROOT=os.path.join(BASE_DIR, 'staticfiles_build','static')\nGOOGLE_API_KEY=\"AIzaSyD9KY0FbIUhu6nwKeqSJLgmedkXwDHbwyA\"\nRECAPTCHA_PUBLIC_KEY=\"6LdichApAAAAAFhii3HZi7HTPjGAFULhwv_UyXN_\"\nRECAPTCHA_PRIVATE_KEY=\"6LdichApAAAAAKUW3xnG6qmW4jLCAG96AAfD3krv\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "django_google_api.settings",
+        "description": "django_google_api.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_URL=\"users:sign-in\"\nLOGIN_REDIRECT_URL=\"users:account\"\nLOGOUT_REDIRECT_URL=\"users:sign-in\"\nBASE_COUNTRY=\"India\"",
+        "detail": "django_google_api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "django_google_api.urls",
+        "description": "django_google_api.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',include('main.urls',namespace=\"main\")),\n    path('',include('users.urls',namespace=\"users\")),\n    path('admin/', admin.site.urls),\n]\nurlpatterns+=static(settings.STATIC_URL,document_root=settings.STATIC_ROOT)",
+        "detail": "django_google_api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "django_google_api.wsgi",
+        "description": "django_google_api.wsgi",
+        "peekOfCode": "application = get_wsgi_application()\napp=application",
+        "detail": "django_google_api.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "MainConfig",
+        "kind": 6,
+        "importPath": "main.apps",
+        "description": "main.apps",
+        "peekOfCode": "class MainConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'main'",
+        "detail": "main.apps",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "main.urls",
+        "description": "main.urls",
+        "peekOfCode": "app_name = \"main\"\nurlpatterns = [\n    path('route', views.route, name=\"route\"),\n    path('map', views.map, name=\"map\"),\n]",
+        "detail": "main.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "main.urls",
+        "description": "main.urls",
+        "peekOfCode": "urlpatterns = [\n    path('route', views.route, name=\"route\"),\n    path('map', views.map, name=\"map\"),\n]",
+        "detail": "main.urls",
+        "documentation": {}
+    },
+    {
+        "label": "route",
+        "kind": 2,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "def route(request):\n\tcontext = {\n\t\"google_api_key\": settings.GOOGLE_API_KEY,\n\t\"base_country\": settings.BASE_COUNTRY}\n\treturn render(request, 'main/route.html', context)\n'''\nBasic view for displaying a map \n'''\ndef map(request):\n\tlat_a = request.GET.get(\"lat_a\", None)",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "map",
+        "kind": 2,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "def map(request):\n\tlat_a = request.GET.get(\"lat_a\", None)\n\tlong_a = request.GET.get(\"long_a\", None)\n\tlat_b = request.GET.get(\"lat_b\", None)\n\tlong_b = request.GET.get(\"long_b\", None)\n\tlat_c = request.GET.get(\"lat_c\", None)\n\tlong_c = request.GET.get(\"long_c\", None)\n\tlat_d = request.GET.get(\"lat_d\", None)\n\tlong_d = request.GET.get(\"long_d\", None)\n\t#only call API if all 4 addresses are added",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcontext",
+        "kind": 5,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "\tcontext = {\n\t\"google_api_key\": settings.GOOGLE_API_KEY,\n\t\"base_country\": settings.BASE_COUNTRY}\n\treturn render(request, 'main/route.html', context)\n'''\nBasic view for displaying a map \n'''\ndef map(request):\n\tlat_a = request.GET.get(\"lat_a\", None)\n\tlong_a = request.GET.get(\"long_a\", None)",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tlat_a",
+        "kind": 5,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "\tlat_a = request.GET.get(\"lat_a\", None)\n\tlong_a = request.GET.get(\"long_a\", None)\n\tlat_b = request.GET.get(\"lat_b\", None)\n\tlong_b = request.GET.get(\"long_b\", None)\n\tlat_c = request.GET.get(\"lat_c\", None)\n\tlong_c = request.GET.get(\"long_c\", None)\n\tlat_d = request.GET.get(\"lat_d\", None)\n\tlong_d = request.GET.get(\"long_d\", None)\n\t#only call API if all 4 addresses are added\n\tif lat_a and lat_b and lat_c and lat_d:",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tlong_a",
+        "kind": 5,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "\tlong_a = request.GET.get(\"long_a\", None)\n\tlat_b = request.GET.get(\"lat_b\", None)\n\tlong_b = request.GET.get(\"long_b\", None)\n\tlat_c = request.GET.get(\"lat_c\", None)\n\tlong_c = request.GET.get(\"long_c\", None)\n\tlat_d = request.GET.get(\"lat_d\", None)\n\tlong_d = request.GET.get(\"long_d\", None)\n\t#only call API if all 4 addresses are added\n\tif lat_a and lat_b and lat_c and lat_d:\n\t\tdirections = Directions(",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tlat_b",
+        "kind": 5,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "\tlat_b = request.GET.get(\"lat_b\", None)\n\tlong_b = request.GET.get(\"long_b\", None)\n\tlat_c = request.GET.get(\"lat_c\", None)\n\tlong_c = request.GET.get(\"long_c\", None)\n\tlat_d = request.GET.get(\"lat_d\", None)\n\tlong_d = request.GET.get(\"long_d\", None)\n\t#only call API if all 4 addresses are added\n\tif lat_a and lat_b and lat_c and lat_d:\n\t\tdirections = Directions(\n\t\t\tlat_a= lat_a,",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tlong_b",
+        "kind": 5,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "\tlong_b = request.GET.get(\"long_b\", None)\n\tlat_c = request.GET.get(\"lat_c\", None)\n\tlong_c = request.GET.get(\"long_c\", None)\n\tlat_d = request.GET.get(\"lat_d\", None)\n\tlong_d = request.GET.get(\"long_d\", None)\n\t#only call API if all 4 addresses are added\n\tif lat_a and lat_b and lat_c and lat_d:\n\t\tdirections = Directions(\n\t\t\tlat_a= lat_a,\n\t\t\tlong_a=long_a,",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tlat_c",
+        "kind": 5,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "\tlat_c = request.GET.get(\"lat_c\", None)\n\tlong_c = request.GET.get(\"long_c\", None)\n\tlat_d = request.GET.get(\"lat_d\", None)\n\tlong_d = request.GET.get(\"long_d\", None)\n\t#only call API if all 4 addresses are added\n\tif lat_a and lat_b and lat_c and lat_d:\n\t\tdirections = Directions(\n\t\t\tlat_a= lat_a,\n\t\t\tlong_a=long_a,\n\t\t\tlat_b = lat_b,",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tlong_c",
+        "kind": 5,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "\tlong_c = request.GET.get(\"long_c\", None)\n\tlat_d = request.GET.get(\"lat_d\", None)\n\tlong_d = request.GET.get(\"long_d\", None)\n\t#only call API if all 4 addresses are added\n\tif lat_a and lat_b and lat_c and lat_d:\n\t\tdirections = Directions(\n\t\t\tlat_a= lat_a,\n\t\t\tlong_a=long_a,\n\t\t\tlat_b = lat_b,\n\t\t\tlong_b=long_b,",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tlat_d",
+        "kind": 5,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "\tlat_d = request.GET.get(\"lat_d\", None)\n\tlong_d = request.GET.get(\"long_d\", None)\n\t#only call API if all 4 addresses are added\n\tif lat_a and lat_b and lat_c and lat_d:\n\t\tdirections = Directions(\n\t\t\tlat_a= lat_a,\n\t\t\tlong_a=long_a,\n\t\t\tlat_b = lat_b,\n\t\t\tlong_b=long_b,\n\t\t\tlat_c= lat_c,",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tlong_d",
+        "kind": 5,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "\tlong_d = request.GET.get(\"long_d\", None)\n\t#only call API if all 4 addresses are added\n\tif lat_a and lat_b and lat_c and lat_d:\n\t\tdirections = Directions(\n\t\t\tlat_a= lat_a,\n\t\t\tlong_a=long_a,\n\t\t\tlat_b = lat_b,\n\t\t\tlong_b=long_b,\n\t\t\tlat_c= lat_c,\n\t\t\tlong_c=long_c,",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdirections",
+        "kind": 5,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "\t\tdirections = Directions(\n\t\t\tlat_a= lat_a,\n\t\t\tlong_a=long_a,\n\t\t\tlat_b = lat_b,\n\t\t\tlong_b=long_b,\n\t\t\tlat_c= lat_c,\n\t\t\tlong_c=long_c,\n\t\t\tlat_d = lat_d,\n\t\t\tlong_d=long_d\n\t\t\t)",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tlat_b",
+        "kind": 5,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "\t\t\tlat_b = lat_b,\n\t\t\tlong_b=long_b,\n\t\t\tlat_c= lat_c,\n\t\t\tlong_c=long_c,\n\t\t\tlat_d = lat_d,\n\t\t\tlong_d=long_d\n\t\t\t)\n\telse:\n\t\treturn redirect(reverse('main:route'))\n\tcontext = {",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tlat_d",
+        "kind": 5,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "\t\t\tlat_d = lat_d,\n\t\t\tlong_d=long_d\n\t\t\t)\n\telse:\n\t\treturn redirect(reverse('main:route'))\n\tcontext = {\n\t\"google_api_key\": settings.GOOGLE_API_KEY,  \n\t\"base_country\": settings.BASE_COUNTRY,\n\t\"lat_a\": lat_a,\n\t\"long_a\": long_a,",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcontext",
+        "kind": 5,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "\tcontext = {\n\t\"google_api_key\": settings.GOOGLE_API_KEY,  \n\t\"base_country\": settings.BASE_COUNTRY,\n\t\"lat_a\": lat_a,\n\t\"long_a\": long_a,\n\t\"lat_b\": lat_b,\n\t\"long_b\": long_b,\n\t\"lat_c\": lat_c,\n\t\"long_c\": long_c,\n\t\"lat_d\": lat_d,",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0001_initial",
+        "description": "users.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserProfile',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "users.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "UsersConfig",
+        "kind": 6,
+        "importPath": "users.apps",
+        "description": "users.apps",
+        "peekOfCode": "class UsersConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'users'\n    def ready(self):\n        import users.signals",
+        "detail": "users.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserForm",
+        "kind": 6,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "class UserForm(UserCreationForm):\n\tfirst_name = forms.CharField(max_length=30, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Your first name..'}))\n\tlast_name = forms.CharField(max_length=30, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Your last name..'}))\n\tusername = forms.EmailField(max_length=254, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Email..'}))\n\tpassword1 = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Password..','class':'password'}))\n\tpassword2 = forms.CharField(",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AuthForm",
+        "kind": 6,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "class AuthForm(AuthenticationForm):\n\tusername = forms.EmailField(max_length=254, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Email..'}))\n\tpassword = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Password..','class':'password'}))\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username','password', )\nclass UserProfileForm(forms.ModelForm):\n\taddress = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileForm",
+        "kind": 6,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "class UserProfileForm(forms.ModelForm):\n\taddress = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\ttown = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\tcounty = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\tpost_code = forms.CharField(max_length=8, required=True, widget = forms.HiddenInput())\n\tcountry = forms.CharField(max_length=40, required=True, widget = forms.HiddenInput())\n\tlongitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tlatitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tclass Meta:\n\t\tmodel = UserProfile",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tfirst_name",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\tfirst_name = forms.CharField(max_length=30, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Your first name..'}))\n\tlast_name = forms.CharField(max_length=30, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Your last name..'}))\n\tusername = forms.EmailField(max_length=254, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Email..'}))\n\tpassword1 = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Password..','class':'password'}))\n\tpassword2 = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Confirm Password..','class':'password'}))",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tlast_name",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\tlast_name = forms.CharField(max_length=30, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Your last name..'}))\n\tusername = forms.EmailField(max_length=254, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Email..'}))\n\tpassword1 = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Password..','class':'password'}))\n\tpassword2 = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Confirm Password..','class':'password'}))\n\t#reCAPTCHA token\n\ttoken = forms.CharField(",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tusername",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\tusername = forms.EmailField(max_length=254, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Email..'}))\n\tpassword1 = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Password..','class':'password'}))\n\tpassword2 = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Confirm Password..','class':'password'}))\n\t#reCAPTCHA token\n\ttoken = forms.CharField(\n\t\twidget=forms.HiddenInput())\n\tclass Meta:",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tpassword1",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\tpassword1 = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Password..','class':'password'}))\n\tpassword2 = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Confirm Password..','class':'password'}))\n\t#reCAPTCHA token\n\ttoken = forms.CharField(\n\t\twidget=forms.HiddenInput())\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'password1', 'password2','token' )",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tpassword2",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\tpassword2 = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Confirm Password..','class':'password'}))\n\t#reCAPTCHA token\n\ttoken = forms.CharField(\n\t\twidget=forms.HiddenInput())\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'password1', 'password2','token' )\nclass AuthForm(AuthenticationForm):\n\tusername = forms.EmailField(max_length=254, required=True,",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\ttoken",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\ttoken = forms.CharField(\n\t\twidget=forms.HiddenInput())\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'password1', 'password2','token' )\nclass AuthForm(AuthenticationForm):\n\tusername = forms.EmailField(max_length=254, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Email..'}))\n\tpassword = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Password..','class':'password'}))",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'password1', 'password2','token' )\nclass AuthForm(AuthenticationForm):\n\tusername = forms.EmailField(max_length=254, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Email..'}))\n\tpassword = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Password..','class':'password'}))\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username','password', )",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfields",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\t\tfields = ('username', 'first_name', 'last_name', 'password1', 'password2','token' )\nclass AuthForm(AuthenticationForm):\n\tusername = forms.EmailField(max_length=254, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Email..'}))\n\tpassword = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Password..','class':'password'}))\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username','password', )",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tusername",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\tusername = forms.EmailField(max_length=254, required=True,\n\t\twidget=forms.TextInput(attrs={'placeholder': '*Email..'}))\n\tpassword = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Password..','class':'password'}))\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username','password', )\nclass UserProfileForm(forms.ModelForm):\n\taddress = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\ttown = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tpassword",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\tpassword = forms.CharField(\n\t\twidget=forms.PasswordInput(attrs={'placeholder': '*Password..','class':'password'}))\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username','password', )\nclass UserProfileForm(forms.ModelForm):\n\taddress = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\ttown = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\tcounty = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\tpost_code = forms.CharField(max_length=8, required=True, widget = forms.HiddenInput())",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\t\tmodel = User\n\t\tfields = ('username','password', )\nclass UserProfileForm(forms.ModelForm):\n\taddress = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\ttown = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\tcounty = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\tpost_code = forms.CharField(max_length=8, required=True, widget = forms.HiddenInput())\n\tcountry = forms.CharField(max_length=40, required=True, widget = forms.HiddenInput())\n\tlongitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tlatitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfields",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\t\tfields = ('username','password', )\nclass UserProfileForm(forms.ModelForm):\n\taddress = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\ttown = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\tcounty = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\tpost_code = forms.CharField(max_length=8, required=True, widget = forms.HiddenInput())\n\tcountry = forms.CharField(max_length=40, required=True, widget = forms.HiddenInput())\n\tlongitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tlatitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tclass Meta:",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\taddress",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\taddress = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\ttown = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\tcounty = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\tpost_code = forms.CharField(max_length=8, required=True, widget = forms.HiddenInput())\n\tcountry = forms.CharField(max_length=40, required=True, widget = forms.HiddenInput())\n\tlongitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tlatitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tclass Meta:\n\t\tmodel = UserProfile\n\t\tfields = ('address', 'town', 'county', 'post_code',",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\ttown",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\ttown = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\tcounty = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\tpost_code = forms.CharField(max_length=8, required=True, widget = forms.HiddenInput())\n\tcountry = forms.CharField(max_length=40, required=True, widget = forms.HiddenInput())\n\tlongitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tlatitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tclass Meta:\n\t\tmodel = UserProfile\n\t\tfields = ('address', 'town', 'county', 'post_code',\n\t\t 'country', 'longitude', 'latitude')",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tcounty",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\tcounty = forms.CharField(max_length=100, required=True, widget = forms.HiddenInput())\n\tpost_code = forms.CharField(max_length=8, required=True, widget = forms.HiddenInput())\n\tcountry = forms.CharField(max_length=40, required=True, widget = forms.HiddenInput())\n\tlongitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tlatitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tclass Meta:\n\t\tmodel = UserProfile\n\t\tfields = ('address', 'town', 'county', 'post_code',\n\t\t 'country', 'longitude', 'latitude')",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tpost_code",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\tpost_code = forms.CharField(max_length=8, required=True, widget = forms.HiddenInput())\n\tcountry = forms.CharField(max_length=40, required=True, widget = forms.HiddenInput())\n\tlongitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tlatitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tclass Meta:\n\t\tmodel = UserProfile\n\t\tfields = ('address', 'town', 'county', 'post_code',\n\t\t 'country', 'longitude', 'latitude')",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tcountry",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\tcountry = forms.CharField(max_length=40, required=True, widget = forms.HiddenInput())\n\tlongitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tlatitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tclass Meta:\n\t\tmodel = UserProfile\n\t\tfields = ('address', 'town', 'county', 'post_code',\n\t\t 'country', 'longitude', 'latitude')",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tlongitude",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\tlongitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tlatitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tclass Meta:\n\t\tmodel = UserProfile\n\t\tfields = ('address', 'town', 'county', 'post_code',\n\t\t 'country', 'longitude', 'latitude')",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tlatitude",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\tlatitude = forms.CharField(max_length=50, required=True, widget = forms.HiddenInput())\n\tclass Meta:\n\t\tmodel = UserProfile\n\t\tfields = ('address', 'town', 'county', 'post_code',\n\t\t 'country', 'longitude', 'latitude')",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\t\tmodel = UserProfile\n\t\tfields = ('address', 'town', 'county', 'post_code',\n\t\t 'country', 'longitude', 'latitude')",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfields",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "\t\tfields = ('address', 'town', 'county', 'post_code',\n\t\t 'country', 'longitude', 'latitude')",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "kind": 6,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "class UserProfile(models.Model):\n\ttimestamp = models.DateTimeField(auto_now_add=True)\n\tupdated = models.DateTimeField(auto_now=True)\n\tuser = models.OneToOneField(User, on_delete=models.CASCADE)\n\taddress = models.CharField(verbose_name=\"Address\",max_length=100, null=True, blank=True)\n\ttown = models.CharField(verbose_name=\"Town/City\",max_length=100, null=True, blank=True)\n\tcounty = models.CharField(verbose_name=\"County\",max_length=100, null=True, blank=True)\n\tpost_code = models.CharField(verbose_name=\"Post Code\",max_length=8, null=True, blank=True)\n\tcountry = models.CharField(verbose_name=\"Country\",max_length=100, null=True, blank=True)\n\tlongitude = models.CharField(verbose_name=\"Longitude\",max_length=50, null=True, blank=True)",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\ttimestamp",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "\ttimestamp = models.DateTimeField(auto_now_add=True)\n\tupdated = models.DateTimeField(auto_now=True)\n\tuser = models.OneToOneField(User, on_delete=models.CASCADE)\n\taddress = models.CharField(verbose_name=\"Address\",max_length=100, null=True, blank=True)\n\ttown = models.CharField(verbose_name=\"Town/City\",max_length=100, null=True, blank=True)\n\tcounty = models.CharField(verbose_name=\"County\",max_length=100, null=True, blank=True)\n\tpost_code = models.CharField(verbose_name=\"Post Code\",max_length=8, null=True, blank=True)\n\tcountry = models.CharField(verbose_name=\"Country\",max_length=100, null=True, blank=True)\n\tlongitude = models.CharField(verbose_name=\"Longitude\",max_length=50, null=True, blank=True)\n\tlatitude = models.CharField(verbose_name=\"Latitude\",max_length=50, null=True, blank=True)",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tupdated",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "\tupdated = models.DateTimeField(auto_now=True)\n\tuser = models.OneToOneField(User, on_delete=models.CASCADE)\n\taddress = models.CharField(verbose_name=\"Address\",max_length=100, null=True, blank=True)\n\ttown = models.CharField(verbose_name=\"Town/City\",max_length=100, null=True, blank=True)\n\tcounty = models.CharField(verbose_name=\"County\",max_length=100, null=True, blank=True)\n\tpost_code = models.CharField(verbose_name=\"Post Code\",max_length=8, null=True, blank=True)\n\tcountry = models.CharField(verbose_name=\"Country\",max_length=100, null=True, blank=True)\n\tlongitude = models.CharField(verbose_name=\"Longitude\",max_length=50, null=True, blank=True)\n\tlatitude = models.CharField(verbose_name=\"Latitude\",max_length=50, null=True, blank=True)\n\tcaptcha_score = models.FloatField(default = 0.0)",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tuser",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "\tuser = models.OneToOneField(User, on_delete=models.CASCADE)\n\taddress = models.CharField(verbose_name=\"Address\",max_length=100, null=True, blank=True)\n\ttown = models.CharField(verbose_name=\"Town/City\",max_length=100, null=True, blank=True)\n\tcounty = models.CharField(verbose_name=\"County\",max_length=100, null=True, blank=True)\n\tpost_code = models.CharField(verbose_name=\"Post Code\",max_length=8, null=True, blank=True)\n\tcountry = models.CharField(verbose_name=\"Country\",max_length=100, null=True, blank=True)\n\tlongitude = models.CharField(verbose_name=\"Longitude\",max_length=50, null=True, blank=True)\n\tlatitude = models.CharField(verbose_name=\"Latitude\",max_length=50, null=True, blank=True)\n\tcaptcha_score = models.FloatField(default = 0.0)\n\thas_profile = models.BooleanField(default = False)",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\taddress",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "\taddress = models.CharField(verbose_name=\"Address\",max_length=100, null=True, blank=True)\n\ttown = models.CharField(verbose_name=\"Town/City\",max_length=100, null=True, blank=True)\n\tcounty = models.CharField(verbose_name=\"County\",max_length=100, null=True, blank=True)\n\tpost_code = models.CharField(verbose_name=\"Post Code\",max_length=8, null=True, blank=True)\n\tcountry = models.CharField(verbose_name=\"Country\",max_length=100, null=True, blank=True)\n\tlongitude = models.CharField(verbose_name=\"Longitude\",max_length=50, null=True, blank=True)\n\tlatitude = models.CharField(verbose_name=\"Latitude\",max_length=50, null=True, blank=True)\n\tcaptcha_score = models.FloatField(default = 0.0)\n\thas_profile = models.BooleanField(default = False)\n\tis_active = models.BooleanField(default = True)",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\ttown",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "\ttown = models.CharField(verbose_name=\"Town/City\",max_length=100, null=True, blank=True)\n\tcounty = models.CharField(verbose_name=\"County\",max_length=100, null=True, blank=True)\n\tpost_code = models.CharField(verbose_name=\"Post Code\",max_length=8, null=True, blank=True)\n\tcountry = models.CharField(verbose_name=\"Country\",max_length=100, null=True, blank=True)\n\tlongitude = models.CharField(verbose_name=\"Longitude\",max_length=50, null=True, blank=True)\n\tlatitude = models.CharField(verbose_name=\"Latitude\",max_length=50, null=True, blank=True)\n\tcaptcha_score = models.FloatField(default = 0.0)\n\thas_profile = models.BooleanField(default = False)\n\tis_active = models.BooleanField(default = True)\n\tdef __str__(self):",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tcounty",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "\tcounty = models.CharField(verbose_name=\"County\",max_length=100, null=True, blank=True)\n\tpost_code = models.CharField(verbose_name=\"Post Code\",max_length=8, null=True, blank=True)\n\tcountry = models.CharField(verbose_name=\"Country\",max_length=100, null=True, blank=True)\n\tlongitude = models.CharField(verbose_name=\"Longitude\",max_length=50, null=True, blank=True)\n\tlatitude = models.CharField(verbose_name=\"Latitude\",max_length=50, null=True, blank=True)\n\tcaptcha_score = models.FloatField(default = 0.0)\n\thas_profile = models.BooleanField(default = False)\n\tis_active = models.BooleanField(default = True)\n\tdef __str__(self):\n\t\treturn f'{self.user}'",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tpost_code",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "\tpost_code = models.CharField(verbose_name=\"Post Code\",max_length=8, null=True, blank=True)\n\tcountry = models.CharField(verbose_name=\"Country\",max_length=100, null=True, blank=True)\n\tlongitude = models.CharField(verbose_name=\"Longitude\",max_length=50, null=True, blank=True)\n\tlatitude = models.CharField(verbose_name=\"Latitude\",max_length=50, null=True, blank=True)\n\tcaptcha_score = models.FloatField(default = 0.0)\n\thas_profile = models.BooleanField(default = False)\n\tis_active = models.BooleanField(default = True)\n\tdef __str__(self):\n\t\treturn f'{self.user}'",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tcountry",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "\tcountry = models.CharField(verbose_name=\"Country\",max_length=100, null=True, blank=True)\n\tlongitude = models.CharField(verbose_name=\"Longitude\",max_length=50, null=True, blank=True)\n\tlatitude = models.CharField(verbose_name=\"Latitude\",max_length=50, null=True, blank=True)\n\tcaptcha_score = models.FloatField(default = 0.0)\n\thas_profile = models.BooleanField(default = False)\n\tis_active = models.BooleanField(default = True)\n\tdef __str__(self):\n\t\treturn f'{self.user}'",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tlongitude",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "\tlongitude = models.CharField(verbose_name=\"Longitude\",max_length=50, null=True, blank=True)\n\tlatitude = models.CharField(verbose_name=\"Latitude\",max_length=50, null=True, blank=True)\n\tcaptcha_score = models.FloatField(default = 0.0)\n\thas_profile = models.BooleanField(default = False)\n\tis_active = models.BooleanField(default = True)\n\tdef __str__(self):\n\t\treturn f'{self.user}'",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tlatitude",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "\tlatitude = models.CharField(verbose_name=\"Latitude\",max_length=50, null=True, blank=True)\n\tcaptcha_score = models.FloatField(default = 0.0)\n\thas_profile = models.BooleanField(default = False)\n\tis_active = models.BooleanField(default = True)\n\tdef __str__(self):\n\t\treturn f'{self.user}'",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tcaptcha_score",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "\tcaptcha_score = models.FloatField(default = 0.0)\n\thas_profile = models.BooleanField(default = False)\n\tis_active = models.BooleanField(default = True)\n\tdef __str__(self):\n\t\treturn f'{self.user}'",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\thas_profile",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "\thas_profile = models.BooleanField(default = False)\n\tis_active = models.BooleanField(default = True)\n\tdef __str__(self):\n\t\treturn f'{self.user}'",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tis_active",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "\tis_active = models.BooleanField(default = True)\n\tdef __str__(self):\n\t\treturn f'{self.user}'",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_profile",
+        "kind": 2,
+        "importPath": "users.signals",
+        "description": "users.signals",
+        "peekOfCode": "def create_profile(sender, instance, created, **kwargs):\n\tif created:\n\t\tuserprofile = UserProfile.objects.create(user=instance)",
+        "detail": "users.signals",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuserprofile",
+        "kind": 5,
+        "importPath": "users.signals",
+        "description": "users.signals",
+        "peekOfCode": "\t\tuserprofile = UserProfile.objects.create(user=instance)",
+        "detail": "users.signals",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "users.urls",
+        "description": "users.urls",
+        "peekOfCode": "app_name = \"users\"\nurlpatterns = [\n\tpath('', views.AccountView.as_view(), name=\"account\"),\n\tpath('profile/', views.profile_view, name=\"profile\"),\n\tpath('sign-up', views.SignUpView.as_view(), name=\"sign-up\"),\n\tpath('sign-in', views.SignInView.as_view(), name=\"sign-in\"),\n\tpath('sign-out', views.sign_out, name=\"sign-out\"),\n\t]",
+        "detail": "users.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "users.urls",
+        "description": "users.urls",
+        "peekOfCode": "urlpatterns = [\n\tpath('', views.AccountView.as_view(), name=\"account\"),\n\tpath('profile/', views.profile_view, name=\"profile\"),\n\tpath('sign-up', views.SignUpView.as_view(), name=\"sign-up\"),\n\tpath('sign-in', views.SignInView.as_view(), name=\"sign-in\"),\n\tpath('sign-out', views.sign_out, name=\"sign-out\"),\n\t]",
+        "detail": "users.urls",
+        "documentation": {}
+    },
+    {
+        "label": "AccountView",
+        "kind": 6,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "class AccountView(TemplateView):\n\t'''\n\tGeneric FormView with our mixin to display user account page\n\t'''\n\ttemplate_name = \"users/account.html\"\n\t@method_decorator(login_required)\n\tdef dispatch(self, *args, **kwargs):\n\t\treturn super().dispatch(*args, **kwargs)\ndef profile_view(request):\n\t'''",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "SignUpView",
+        "kind": 6,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "class SignUpView(AjaxFormMixin, FormView):\n\t'''\n\tGeneric FormView with our mixin for user sign-up with reCAPTURE security\n\t'''\n\ttemplate_name = \"users/sign_up.html\"\n\tform_class = UserForm\n\tsuccess_url = \"/\"\n\t#reCAPTURE key required in context\n\tdef get_context_data(self, **kwargs):\n\t\tcontext = super().get_context_data(**kwargs)",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "SignInView",
+        "kind": 6,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "class SignInView(AjaxFormMixin, FormView):\n\t'''\n\tGeneric FormView with our mixin for user sign-in\n\t'''\n\ttemplate_name = \"users/sign_in.html\"\n\tform_class = AuthForm\n\tsuccess_url = \"/\"\n\tdef form_valid(self, form):\n\t\tresponse = super(AjaxFormMixin, self).form_valid(form)\t\n\t\tif self.request.headers.get('x-requested-with') == 'XMLHttpRequest':",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile_view",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def profile_view(request):\n\t'''\n\tfunction view to allow users to update their profile\n\t'''\n\tuser = request.user\n\tup = user.userprofile\n\tform = UserProfileForm(instance = up) \n\tif request.headers.get('x-requested-with') == 'XMLHttpRequest':\n\t\tform = UserProfileForm(data = request.POST, instance = up)\n\t\tif form.is_valid():",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "sign_out",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def sign_out(request):\n\t'''\n\tBasic view for user sign out\n\t'''\n\tlogout(request)\n\treturn redirect(reverse('users:sign-in'))",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "result = \"Error\"\nmessage = \"There was an error, please try again\"\nclass AccountView(TemplateView):\n\t'''\n\tGeneric FormView with our mixin to display user account page\n\t'''\n\ttemplate_name = \"users/account.html\"\n\t@method_decorator(login_required)\n\tdef dispatch(self, *args, **kwargs):\n\t\treturn super().dispatch(*args, **kwargs)",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "message = \"There was an error, please try again\"\nclass AccountView(TemplateView):\n\t'''\n\tGeneric FormView with our mixin to display user account page\n\t'''\n\ttemplate_name = \"users/account.html\"\n\t@method_decorator(login_required)\n\tdef dispatch(self, *args, **kwargs):\n\t\treturn super().dispatch(*args, **kwargs)\ndef profile_view(request):",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttemplate_name",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\ttemplate_name = \"users/account.html\"\n\t@method_decorator(login_required)\n\tdef dispatch(self, *args, **kwargs):\n\t\treturn super().dispatch(*args, **kwargs)\ndef profile_view(request):\n\t'''\n\tfunction view to allow users to update their profile\n\t'''\n\tuser = request.user\n\tup = user.userprofile",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tuser",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\tuser = request.user\n\tup = user.userprofile\n\tform = UserProfileForm(instance = up) \n\tif request.headers.get('x-requested-with') == 'XMLHttpRequest':\n\t\tform = UserProfileForm(data = request.POST, instance = up)\n\t\tif form.is_valid():\n\t\t\tobj = form.save()\n\t\t\tobj.has_profile = True\n\t\t\tobj.save()\n\t\t\tresult = \"Success\"",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tup",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\tup = user.userprofile\n\tform = UserProfileForm(instance = up) \n\tif request.headers.get('x-requested-with') == 'XMLHttpRequest':\n\t\tform = UserProfileForm(data = request.POST, instance = up)\n\t\tif form.is_valid():\n\t\t\tobj = form.save()\n\t\t\tobj.has_profile = True\n\t\t\tobj.save()\n\t\t\tresult = \"Success\"\n\t\t\tmessage = \"Your profile has been updated\"",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tform",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\tform = UserProfileForm(instance = up) \n\tif request.headers.get('x-requested-with') == 'XMLHttpRequest':\n\t\tform = UserProfileForm(data = request.POST, instance = up)\n\t\tif form.is_valid():\n\t\t\tobj = form.save()\n\t\t\tobj.has_profile = True\n\t\t\tobj.save()\n\t\t\tresult = \"Success\"\n\t\t\tmessage = \"Your profile has been updated\"\n\t\telse:",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\tform = UserProfileForm(data = request.POST, instance = up)\n\t\tif form.is_valid():\n\t\t\tobj = form.save()\n\t\t\tobj.has_profile = True\n\t\t\tobj.save()\n\t\t\tresult = \"Success\"\n\t\t\tmessage = \"Your profile has been updated\"\n\t\telse:\n\t\t\tmessage = FormErrors(form)\n\t\tdata = {'result': result, 'message': message}",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tobj",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\tobj = form.save()\n\t\t\tobj.has_profile = True\n\t\t\tobj.save()\n\t\t\tresult = \"Success\"\n\t\t\tmessage = \"Your profile has been updated\"\n\t\telse:\n\t\t\tmessage = FormErrors(form)\n\t\tdata = {'result': result, 'message': message}\n\t\treturn JsonResponse(data)\n\telse:",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tobj.has_profile",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\tobj.has_profile = True\n\t\t\tobj.save()\n\t\t\tresult = \"Success\"\n\t\t\tmessage = \"Your profile has been updated\"\n\t\telse:\n\t\t\tmessage = FormErrors(form)\n\t\tdata = {'result': result, 'message': message}\n\t\treturn JsonResponse(data)\n\telse:\n\t\tcontext = {'form': form}",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tresult",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\tresult = \"Success\"\n\t\t\tmessage = \"Your profile has been updated\"\n\t\telse:\n\t\t\tmessage = FormErrors(form)\n\t\tdata = {'result': result, 'message': message}\n\t\treturn JsonResponse(data)\n\telse:\n\t\tcontext = {'form': form}\n\t\tcontext['google_api_key'] = settings.GOOGLE_API_KEY\n\t\tcontext['base_country'] = settings.BASE_COUNTRY",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tmessage",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\tmessage = \"Your profile has been updated\"\n\t\telse:\n\t\t\tmessage = FormErrors(form)\n\t\tdata = {'result': result, 'message': message}\n\t\treturn JsonResponse(data)\n\telse:\n\t\tcontext = {'form': form}\n\t\tcontext['google_api_key'] = settings.GOOGLE_API_KEY\n\t\tcontext['base_country'] = settings.BASE_COUNTRY\n\t\treturn render(request, 'users/profile.html', context)",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tmessage",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\tmessage = FormErrors(form)\n\t\tdata = {'result': result, 'message': message}\n\t\treturn JsonResponse(data)\n\telse:\n\t\tcontext = {'form': form}\n\t\tcontext['google_api_key'] = settings.GOOGLE_API_KEY\n\t\tcontext['base_country'] = settings.BASE_COUNTRY\n\t\treturn render(request, 'users/profile.html', context)\nclass SignUpView(AjaxFormMixin, FormView):\n\t'''",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdata",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\tdata = {'result': result, 'message': message}\n\t\treturn JsonResponse(data)\n\telse:\n\t\tcontext = {'form': form}\n\t\tcontext['google_api_key'] = settings.GOOGLE_API_KEY\n\t\tcontext['base_country'] = settings.BASE_COUNTRY\n\t\treturn render(request, 'users/profile.html', context)\nclass SignUpView(AjaxFormMixin, FormView):\n\t'''\n\tGeneric FormView with our mixin for user sign-up with reCAPTURE security",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\tcontext = {'form': form}\n\t\tcontext['google_api_key'] = settings.GOOGLE_API_KEY\n\t\tcontext['base_country'] = settings.BASE_COUNTRY\n\t\treturn render(request, 'users/profile.html', context)\nclass SignUpView(AjaxFormMixin, FormView):\n\t'''\n\tGeneric FormView with our mixin for user sign-up with reCAPTURE security\n\t'''\n\ttemplate_name = \"users/sign_up.html\"\n\tform_class = UserForm",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext['google_api_key']",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\tcontext['google_api_key'] = settings.GOOGLE_API_KEY\n\t\tcontext['base_country'] = settings.BASE_COUNTRY\n\t\treturn render(request, 'users/profile.html', context)\nclass SignUpView(AjaxFormMixin, FormView):\n\t'''\n\tGeneric FormView with our mixin for user sign-up with reCAPTURE security\n\t'''\n\ttemplate_name = \"users/sign_up.html\"\n\tform_class = UserForm\n\tsuccess_url = \"/\"",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext['base_country']",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\tcontext['base_country'] = settings.BASE_COUNTRY\n\t\treturn render(request, 'users/profile.html', context)\nclass SignUpView(AjaxFormMixin, FormView):\n\t'''\n\tGeneric FormView with our mixin for user sign-up with reCAPTURE security\n\t'''\n\ttemplate_name = \"users/sign_up.html\"\n\tform_class = UserForm\n\tsuccess_url = \"/\"\n\t#reCAPTURE key required in context",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttemplate_name",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\ttemplate_name = \"users/sign_up.html\"\n\tform_class = UserForm\n\tsuccess_url = \"/\"\n\t#reCAPTURE key required in context\n\tdef get_context_data(self, **kwargs):\n\t\tcontext = super().get_context_data(**kwargs)\n\t\tcontext[\"recaptcha_site_key\"] = settings.RECAPTCHA_PUBLIC_KEY\n\t\treturn context\n\t#over write the mixin logic to get, check and save reCAPTURE score\n\tdef form_valid(self, form):",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tform_class",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\tform_class = UserForm\n\tsuccess_url = \"/\"\n\t#reCAPTURE key required in context\n\tdef get_context_data(self, **kwargs):\n\t\tcontext = super().get_context_data(**kwargs)\n\t\tcontext[\"recaptcha_site_key\"] = settings.RECAPTCHA_PUBLIC_KEY\n\t\treturn context\n\t#over write the mixin logic to get, check and save reCAPTURE score\n\tdef form_valid(self, form):\n\t\tresponse = super(AjaxFormMixin, self).form_valid(form)\t",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tsuccess_url",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\tsuccess_url = \"/\"\n\t#reCAPTURE key required in context\n\tdef get_context_data(self, **kwargs):\n\t\tcontext = super().get_context_data(**kwargs)\n\t\tcontext[\"recaptcha_site_key\"] = settings.RECAPTCHA_PUBLIC_KEY\n\t\treturn context\n\t#over write the mixin logic to get, check and save reCAPTURE score\n\tdef form_valid(self, form):\n\t\tresponse = super(AjaxFormMixin, self).form_valid(form)\t\n\t\tif self.request.headers.get('x-requested-with') == 'XMLHttpRequest':",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\tcontext = super().get_context_data(**kwargs)\n\t\tcontext[\"recaptcha_site_key\"] = settings.RECAPTCHA_PUBLIC_KEY\n\t\treturn context\n\t#over write the mixin logic to get, check and save reCAPTURE score\n\tdef form_valid(self, form):\n\t\tresponse = super(AjaxFormMixin, self).form_valid(form)\t\n\t\tif self.request.headers.get('x-requested-with') == 'XMLHttpRequest':\n\t\t\ttoken = form.cleaned_data.get('token')\n\t\t\tcaptcha = reCAPTCHAValidation(token)\n\t\t\tprint('working')",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext[\"recaptcha_site_key\"]",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\tcontext[\"recaptcha_site_key\"] = settings.RECAPTCHA_PUBLIC_KEY\n\t\treturn context\n\t#over write the mixin logic to get, check and save reCAPTURE score\n\tdef form_valid(self, form):\n\t\tresponse = super(AjaxFormMixin, self).form_valid(form)\t\n\t\tif self.request.headers.get('x-requested-with') == 'XMLHttpRequest':\n\t\t\ttoken = form.cleaned_data.get('token')\n\t\t\tcaptcha = reCAPTCHAValidation(token)\n\t\t\tprint('working')\n\t\t\tprint(captcha)",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tresponse",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\tresponse = super(AjaxFormMixin, self).form_valid(form)\t\n\t\tif self.request.headers.get('x-requested-with') == 'XMLHttpRequest':\n\t\t\ttoken = form.cleaned_data.get('token')\n\t\t\tcaptcha = reCAPTCHAValidation(token)\n\t\t\tprint('working')\n\t\t\tprint(captcha)\n\t\t\tprint(captcha['success'])\n\t\t\tif captcha[\"success\"]:\n\t\t\t\tprint(\"captcha working\")\n\t\t\t\tobj = form.save()",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\ttoken",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\ttoken = form.cleaned_data.get('token')\n\t\t\tcaptcha = reCAPTCHAValidation(token)\n\t\t\tprint('working')\n\t\t\tprint(captcha)\n\t\t\tprint(captcha['success'])\n\t\t\tif captcha[\"success\"]:\n\t\t\t\tprint(\"captcha working\")\n\t\t\t\tobj = form.save()\n\t\t\t\tobj.email = obj.username\n\t\t\t\tobj.save()",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tcaptcha",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\tcaptcha = reCAPTCHAValidation(token)\n\t\t\tprint('working')\n\t\t\tprint(captcha)\n\t\t\tprint(captcha['success'])\n\t\t\tif captcha[\"success\"]:\n\t\t\t\tprint(\"captcha working\")\n\t\t\t\tobj = form.save()\n\t\t\t\tobj.email = obj.username\n\t\t\t\tobj.save()\n\t\t\t\tup = obj.userprofile",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tobj",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\t\tobj = form.save()\n\t\t\t\tobj.email = obj.username\n\t\t\t\tobj.save()\n\t\t\t\tup = obj.userprofile\n\t\t\t\tup.captcha_score = float(captcha[\"score\"])\n\t\t\t\tup.save()\n\t\t\t\tlogin(self.request, obj, backend='django.contrib.auth.backends.ModelBackend')\n\t\t\t\t#change result & message on success\n\t\t\t\tresult = \"Success\"\n\t\t\t\tmessage = \"Thank you for signing up\"",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tobj.email",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\t\tobj.email = obj.username\n\t\t\t\tobj.save()\n\t\t\t\tup = obj.userprofile\n\t\t\t\tup.captcha_score = float(captcha[\"score\"])\n\t\t\t\tup.save()\n\t\t\t\tlogin(self.request, obj, backend='django.contrib.auth.backends.ModelBackend')\n\t\t\t\t#change result & message on success\n\t\t\t\tresult = \"Success\"\n\t\t\t\tmessage = \"Thank you for signing up\"\n\t\t\tdata = {'result': result, 'message': message}",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tup",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\t\tup = obj.userprofile\n\t\t\t\tup.captcha_score = float(captcha[\"score\"])\n\t\t\t\tup.save()\n\t\t\t\tlogin(self.request, obj, backend='django.contrib.auth.backends.ModelBackend')\n\t\t\t\t#change result & message on success\n\t\t\t\tresult = \"Success\"\n\t\t\t\tmessage = \"Thank you for signing up\"\n\t\t\tdata = {'result': result, 'message': message}\n\t\t\treturn JsonResponse(data)\n\t\treturn response",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tup.captcha_score",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\t\tup.captcha_score = float(captcha[\"score\"])\n\t\t\t\tup.save()\n\t\t\t\tlogin(self.request, obj, backend='django.contrib.auth.backends.ModelBackend')\n\t\t\t\t#change result & message on success\n\t\t\t\tresult = \"Success\"\n\t\t\t\tmessage = \"Thank you for signing up\"\n\t\t\tdata = {'result': result, 'message': message}\n\t\t\treturn JsonResponse(data)\n\t\treturn response\nclass SignInView(AjaxFormMixin, FormView):",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tresult",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\t\tresult = \"Success\"\n\t\t\t\tmessage = \"Thank you for signing up\"\n\t\t\tdata = {'result': result, 'message': message}\n\t\t\treturn JsonResponse(data)\n\t\treturn response\nclass SignInView(AjaxFormMixin, FormView):\n\t'''\n\tGeneric FormView with our mixin for user sign-in\n\t'''\n\ttemplate_name = \"users/sign_in.html\"",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tmessage",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\t\tmessage = \"Thank you for signing up\"\n\t\t\tdata = {'result': result, 'message': message}\n\t\t\treturn JsonResponse(data)\n\t\treturn response\nclass SignInView(AjaxFormMixin, FormView):\n\t'''\n\tGeneric FormView with our mixin for user sign-in\n\t'''\n\ttemplate_name = \"users/sign_in.html\"\n\tform_class = AuthForm",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tdata",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\tdata = {'result': result, 'message': message}\n\t\t\treturn JsonResponse(data)\n\t\treturn response\nclass SignInView(AjaxFormMixin, FormView):\n\t'''\n\tGeneric FormView with our mixin for user sign-in\n\t'''\n\ttemplate_name = \"users/sign_in.html\"\n\tform_class = AuthForm\n\tsuccess_url = \"/\"",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttemplate_name",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\ttemplate_name = \"users/sign_in.html\"\n\tform_class = AuthForm\n\tsuccess_url = \"/\"\n\tdef form_valid(self, form):\n\t\tresponse = super(AjaxFormMixin, self).form_valid(form)\t\n\t\tif self.request.headers.get('x-requested-with') == 'XMLHttpRequest':\n\t\t\tusername = form.cleaned_data.get('username')\n\t\t\tpassword = form.cleaned_data.get('password')\n\t\t\t#attempt to authenticate user\n\t\t\tuser = authenticate(self.request, username=username, password=password)",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tform_class",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\tform_class = AuthForm\n\tsuccess_url = \"/\"\n\tdef form_valid(self, form):\n\t\tresponse = super(AjaxFormMixin, self).form_valid(form)\t\n\t\tif self.request.headers.get('x-requested-with') == 'XMLHttpRequest':\n\t\t\tusername = form.cleaned_data.get('username')\n\t\t\tpassword = form.cleaned_data.get('password')\n\t\t\t#attempt to authenticate user\n\t\t\tuser = authenticate(self.request, username=username, password=password)\n\t\t\tif user is not None:",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tsuccess_url",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\tsuccess_url = \"/\"\n\tdef form_valid(self, form):\n\t\tresponse = super(AjaxFormMixin, self).form_valid(form)\t\n\t\tif self.request.headers.get('x-requested-with') == 'XMLHttpRequest':\n\t\t\tusername = form.cleaned_data.get('username')\n\t\t\tpassword = form.cleaned_data.get('password')\n\t\t\t#attempt to authenticate user\n\t\t\tuser = authenticate(self.request, username=username, password=password)\n\t\t\tif user is not None:\n\t\t\t\tlogin(self.request, user, backend='django.contrib.auth.backends.ModelBackend')",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tresponse",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\tresponse = super(AjaxFormMixin, self).form_valid(form)\t\n\t\tif self.request.headers.get('x-requested-with') == 'XMLHttpRequest':\n\t\t\tusername = form.cleaned_data.get('username')\n\t\t\tpassword = form.cleaned_data.get('password')\n\t\t\t#attempt to authenticate user\n\t\t\tuser = authenticate(self.request, username=username, password=password)\n\t\t\tif user is not None:\n\t\t\t\tlogin(self.request, user, backend='django.contrib.auth.backends.ModelBackend')\n\t\t\t\tresult = \"Success\"\n\t\t\t\tmessage = 'You are now logged in'",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tusername",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\tusername = form.cleaned_data.get('username')\n\t\t\tpassword = form.cleaned_data.get('password')\n\t\t\t#attempt to authenticate user\n\t\t\tuser = authenticate(self.request, username=username, password=password)\n\t\t\tif user is not None:\n\t\t\t\tlogin(self.request, user, backend='django.contrib.auth.backends.ModelBackend')\n\t\t\t\tresult = \"Success\"\n\t\t\t\tmessage = 'You are now logged in'\n\t\t\telse:\n\t\t\t\tmessage = FormErrors(form)",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tpassword",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\tpassword = form.cleaned_data.get('password')\n\t\t\t#attempt to authenticate user\n\t\t\tuser = authenticate(self.request, username=username, password=password)\n\t\t\tif user is not None:\n\t\t\t\tlogin(self.request, user, backend='django.contrib.auth.backends.ModelBackend')\n\t\t\t\tresult = \"Success\"\n\t\t\t\tmessage = 'You are now logged in'\n\t\t\telse:\n\t\t\t\tmessage = FormErrors(form)\n\t\t\tdata = {'result': result, 'message': message}",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tuser",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\tuser = authenticate(self.request, username=username, password=password)\n\t\t\tif user is not None:\n\t\t\t\tlogin(self.request, user, backend='django.contrib.auth.backends.ModelBackend')\n\t\t\t\tresult = \"Success\"\n\t\t\t\tmessage = 'You are now logged in'\n\t\t\telse:\n\t\t\t\tmessage = FormErrors(form)\n\t\t\tdata = {'result': result, 'message': message}\n\t\t\treturn JsonResponse(data)\n\t\treturn response",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tresult",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\t\tresult = \"Success\"\n\t\t\t\tmessage = 'You are now logged in'\n\t\t\telse:\n\t\t\t\tmessage = FormErrors(form)\n\t\t\tdata = {'result': result, 'message': message}\n\t\t\treturn JsonResponse(data)\n\t\treturn response\ndef sign_out(request):\n\t'''\n\tBasic view for user sign out",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tmessage",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\t\tmessage = 'You are now logged in'\n\t\t\telse:\n\t\t\t\tmessage = FormErrors(form)\n\t\t\tdata = {'result': result, 'message': message}\n\t\t\treturn JsonResponse(data)\n\t\treturn response\ndef sign_out(request):\n\t'''\n\tBasic view for user sign out\n\t'''",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tmessage",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\t\tmessage = FormErrors(form)\n\t\t\tdata = {'result': result, 'message': message}\n\t\t\treturn JsonResponse(data)\n\t\treturn response\ndef sign_out(request):\n\t'''\n\tBasic view for user sign out\n\t'''\n\tlogout(request)\n\treturn redirect(reverse('users:sign-in'))",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tdata",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "\t\t\tdata = {'result': result, 'message': message}\n\t\t\treturn JsonResponse(data)\n\t\treturn response\ndef sign_out(request):\n\t'''\n\tBasic view for user sign out\n\t'''\n\tlogout(request)\n\treturn redirect(reverse('users:sign-in'))",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_google_api.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

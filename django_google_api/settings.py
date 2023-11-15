@@ -28,8 +28,7 @@ SECRET_KEY = 'django-insecure-4+8=)^b$b33nxdhv^tyzo02e8m_f%oyyep+uf=xsubx@)&)ddp
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['.vercel.app','.now.sh','127.0.0.1','localhost']
 
 # Application definition
 
@@ -80,8 +79,12 @@ WSGI_APPLICATION = 'django_google_api.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'railway',
+        'USER': 'postgres',
+        'PASSWORD': '5DB523dDCDB-5EEab1BB53ebd25eaf64',
+        'HOST': 'viaduct.proxy.rlwy.net',
+        'PORT': '19031',
     }
 }
 
@@ -125,11 +128,11 @@ STATIC_URL = 'static/'
 STATICFILES_DIRS=[
 os.path.join(BASE_DIR, 'static')    
 ]
-STATIC_ROOT=os.path.join(BASE_DIR, 'static_cdn')
+STATIC_ROOT=os.path.join(BASE_DIR, 'staticfiles_build','static')
 
 GOOGLE_API_KEY="AIzaSyD9KY0FbIUhu6nwKeqSJLgmedkXwDHbwyA"
-RECAPTCHA_PUBLIC_KEY="6LdjL9YoAAAAAPEOIcMXmU2D1Z8lTSuZsj_7DzpT"
-RECAPTCHA_PRIVATE_KEY="6LdjL9YoAAAAAJcBdU20dBSEHB2YUlJnxZTp37Lc"
+RECAPTCHA_PUBLIC_KEY="6LdichApAAAAAFhii3HZi7HTPjGAFULhwv_UyXN_"
+RECAPTCHA_PRIVATE_KEY="6LdichApAAAAAKUW3xnG6qmW4jLCAG96AAfD3krv"
     
 
 # Default primary key field type
