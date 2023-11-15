@@ -79,6 +79,6 @@ Don't forget to activate the following Google APIs in your Google Cloud Console:
 - Ensure to replace the placeholders in `settings.ini` with your actual API keys.
 - The project utilizes Google APIs for features like auto-populating fields and displaying maps.
 - Migrations are essential for updating the database structure.
-- Visit https://django-google-api.onrender.com to view the application.
+- Visit [https://django-google-api.onrender.com](https://google-api-django.vercel.app/)https://google-api-django.vercel.app/ to view the application.
 
 
