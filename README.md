@@ -61,7 +61,7 @@ Django-Google-API is a Django project designed to leverage various Google APIs f
    python manage.py runserver
    ```
 
-9. Access the application at https://django-google-api.onrender.com
+  
 
 ## Important Note
 
